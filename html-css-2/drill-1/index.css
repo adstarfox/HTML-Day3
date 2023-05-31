@@ -1,0 +1,26 @@
+header{
+    height: 150px;
+    background-color: grey;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: calc(100vh - 100px);
+}
+
+.side-bars{
+    height: 100%;
+    width: 200px;
+    background-color: darkgrey;
+}
+
+#middle{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+
+}
+
+
